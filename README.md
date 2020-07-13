@@ -1,11 +1,11 @@
 Tanks
 
-2D game with three different game modes. It's inspired by Battle City game from Nintendo. Player control tank and shoot enemies to gain score and advance to next levels. 
+2D game with three different modes. It's inspired by Battle City game from Nintendo. Player controls tank and shoots enemies to gain score and advance to next levels. 
 
-
-Game developed in Unity Engine using many components. It was used as a student project so it's not coded in the best way.
+Game developed in Unity Engine using many components. It was used as a student project so it's not coded perfectly.
 
 Game features:
+
 -3 modes:
 
 *Adventure mode - advance through different levels. Each next level is harder to win. Final level presents different type of enemy with new kind of mechanics and weapons (so called boss). 
@@ -16,7 +16,7 @@ Game features:
  
 *Survival - shoot as many as possible before loose. Achieve highscore.
 
--player unit tank (can be upgraded through in-game) 
+-player tank (can be upgraded in-game) 
 
 -enemy tank (3 different types) 
 
