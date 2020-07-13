@@ -12,7 +12,7 @@ Game features:
 
 *Two player adventure - same as adventure mode, but with to human players. 
  
-*Versus - play against another payer on specially designed map for battle. 
+*Versus - play against another player on specially designed map for battle. 
  
 *Survival - shoot as many as possible before loose. Achieve highscore.
 
